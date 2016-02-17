@@ -42,6 +42,8 @@ Your finished piece of html for your new `<div class="more-less-box">` should lo
 
 You're all done - great job!
 
+Remember, each of these github code files must be saved separately, in their respective formats. 
+
 ##Javascript##
 
 Now you need to create the function which instructs the html to toggle.
@@ -77,7 +79,9 @@ max-height: 20px;
 overflow: hidden;
 }`
 
-Way to go! Remember, each of these github code files must be saved separately, in their respective formats. 
+Your box is created.
+
+Way to go! 
 
 
 
